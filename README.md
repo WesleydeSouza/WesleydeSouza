@@ -24,5 +24,5 @@ Hi, my name is Wesley de Souza!
 </a>
 
 </p> 
-    ![Snake animation](https://github.com/wesleydesouza/wesleydesouza/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/wesleydesouza/wesleydesouza/blob/output/github-contribution-grid-snake.svg)
 </div>
