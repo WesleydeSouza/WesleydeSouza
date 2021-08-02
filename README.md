@@ -22,7 +22,7 @@
     <img align="center" alt="Wesley-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
     <img align="center" alt="Wesley-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
-<hr>
+ ##
 <div> 
 <p class="left">
 <a href="https://www.linkedin.com/in/wesley-de-souza-904ab6187" alt="Linkedin" target="_blank">
