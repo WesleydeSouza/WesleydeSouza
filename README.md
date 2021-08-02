@@ -22,7 +22,7 @@
 <div> 
 
 <a href="https://www.linkedin.com/in/wesley-de-souza-904ab6187" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-045FB4?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-de-souza-904ab6187/">
+    <img src="https://img.shields.io/badge/-Linkedin-045FB4?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wesley-de-souza-904ab6187/" target="_blank">
 </a>
 <a href="https://www.instagram.com/wesleysouzaduarte/" alt="Instagram" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
