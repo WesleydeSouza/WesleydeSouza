@@ -1,16 +1,7 @@
-<h2><b>Hi, my name is Wesley de Souza!</b></h2>
-<p style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 17px;">
-    I'm from Porto Alegre, RS.
-</p>
-  
-  <p style="text-align: justify; font-family: Georgia, 'Times New Roman', Times, serif; font-size: 17px;">
-    
-  </p>
- <div>
-    <a href="https://github.com/wesleydesouza">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleydesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydesouza&layout=compact&langs_count=7&theme=dracula">
-    </a>
+Hi, my name is Wesley de Souza!
+  <a href="https://github.com/wesleydesouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wesleydesouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydesouza&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Wesley-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
