@@ -33,5 +33,5 @@
 
 </p> 
     
-    ![Snake animation](https://github.com/WesleydeSouza/WesleydeSouza/blob/output/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/WesleydeSouza/wesleydesouza/blob/output/github-contribution-grid-snake.svg)
 </div>
