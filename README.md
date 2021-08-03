@@ -27,7 +27,7 @@
 <a href="https://www.instagram.com/wesleysouzaduarte/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank">
 </a>
-
+  <img src="https://komarev.com/ghpvc/?username=wesleydesouza&color=green" alt="wesleydesouza" /> 
    ![Snake animation](https://github.com/wesleydesouza/wesleydesouza/blob/output/github-contribution-grid-snake.svg)
 </div>
 
